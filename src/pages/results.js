@@ -1,5 +1,5 @@
 import TopNavbar from "../components/navbar";
-import {Col, Container, Row} from "react-bootstrap";
+import {Col, Container, Image, Row} from "react-bootstrap";
 
 export default function Results() {
     return (
@@ -39,11 +39,47 @@ export default function Results() {
                 </Row>
                 <Container style={{textAlign: 'center'}}>
                     <h2>
-                        Photos
+                        AWS Rekognition Photos
                     </h2>
-                    <p>
-                        (Insert Proof Photos)
-                    </p>
+                    <Row>
+                        <Col xs={12} lg={4}>
+                            <Container style={{paddingBottom:'10%'}}>
+                                <Image style={{maxWidth:'80%'}} src={'Model1.png'}/>
+                            </Container>
+                        </Col>
+                        <Col xs={12} lg={4}>
+                            <Container style={{paddingBottom:'10%'}}>
+                                <Image style={{maxWidth:'80%'}} src={'Model2.png'}/>
+                            </Container>
+                        </Col>
+                        <Col xs={12} lg={4}>
+                            <Container style={{paddingBottom:'10%'}}>
+                                <Image style={{maxWidth:'80%'}} src={'Model3.png'}/>
+                            </Container>
+                        </Col>
+                    </Row>
+                </Container>
+                <Container style={{textAlign: 'center'}}>
+                    <h2>
+                        Python OpenCV Photos
+                    </h2>
+                    <Row>
+                        <Col xs={12} lg={4}>
+                            <Container style={{paddingBottom:'10%'}}>
+                                <Image style={{maxWidth:'80%'}} src={'Python1.png'}/>
+                            </Container>
+                        </Col>
+                        <Col xs={12} lg={4}>
+                            <Container style={{paddingBottom:'10%'}}>
+                                <Image style={{maxWidth:'80%'}} src={'Python2.png'}/>
+                            </Container>
+                        </Col>
+                        <Col xs={12} lg={4}>
+                            <Container style={{paddingBottom:'10%'}}>
+                                <Image style={{maxWidth:'80%'}} src={'Python3.png'}/>
+                            </Container>
+                        </Col>
+                    </Row>
                 </Container>
             </Container>
         </>
