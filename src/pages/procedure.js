@@ -13,24 +13,31 @@ export default function Procedure() {
                         </h1>
                     </Row>
                     <Row>
-                        <Col style={{background:'rgb(225, 225, 235)', borderRadius:'25px', margin:'10px'}}>
+                        <Col style={{background: 'rgb(225, 225, 235)', borderRadius: '25px', margin: '10px'}}>
                             <h2>Thank You For Your Time and Consideration</h2>
                             <p>
                                 We appreciate your attendance in taking a look at our project. I hope that you enjoy the
                                 journey through seeing the results as much as we enjoyed making them.
                             </p>
                         </Col>
-                        <Col style={{background:'rgb(225, 225, 235)', borderRadius:'25px', margin:'10px'}}>
+                        <Col style={{background: 'rgb(225, 225, 235)', borderRadius: '25px', margin: '10px'}}>
                             <h2>Ready to Solve a Mystery?</h2>
                             <p>
                                 Today we start off by observing scenes from surveillance video taken at the scene of a
-                                robbery of an ancient artifact called The Four Goat Square Zun
+                                robbery of an ancient artifact called The Four Goat Square Zun. We only have limited
+                                images of the target vehicles, and it's our job to create a reorganization model to fix
+                                that.
                             </p>
                         </Col>
                     </Row>
                     <Row>
-                        <Container style={{textAlign: 'center', background:'rgb(225, 225, 235)', borderRadius:'25px', margin:'10px'}}>
-                            <h2 >
+                        <Container style={{
+                            textAlign: 'center',
+                            background: 'rgb(225, 225, 235)',
+                            borderRadius: '25px',
+                            margin: '10px'
+                        }}>
+                            <h2>
                                 Group Members
                             </h2>
                             <p>
@@ -44,7 +51,7 @@ export default function Procedure() {
                         </h1>
                     </Row>
                     <Row>
-                        <Col style={{background:'rgb(225, 225, 235)', borderRadius:'25px', margin:'10px'}}>
+                        <Col style={{background: 'rgb(225, 225, 235)', borderRadius: '25px', margin: '10px'}}>
                             <h2>
                                 AWS Rekognition & More
                             </h2>
@@ -54,7 +61,7 @@ export default function Procedure() {
                                 like Python when the problems got more difficult.
                             </p>
                         </Col>
-                        <Col style={{background:'rgb(225, 225, 235)', borderRadius:'25px', margin:'10px'}}>
+                        <Col style={{background: 'rgb(225, 225, 235)', borderRadius: '25px', margin: '10px'}}>
                             <h2>
                                 Feature Engineering & Data
                             </h2>
