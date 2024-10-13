@@ -18,6 +18,9 @@ h2 {
   padding: 10px;
   font-weight: bold;
 }
+.navbar h2 {
+  color: whitesmoke;
+}
 image {
   padding: 5px;
 }

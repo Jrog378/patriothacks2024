@@ -1,11 +1,11 @@
 import {Nav, NavDropdown} from "react-bootstrap";
 import Navbar from 'react-bootstrap/Navbar';
 
-const TopNavbar = () => {
+const HomeNavbar = () => {
     return (
         <Navbar className="justify-content-center" expand="lg" style={{
             background: "linear-gradient(150deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 100%)",
-            borderRadius: '0 0 2.5% 2.5%', padding:'10px'
+            borderRadius: '0 0 2.5% 2.5%', padding:'10px', position:'fixed'
         }}>
             <Navbar.Brand href="/" style={{background: 'whitesmoke', borderRadius: '10%'}}>
                 <img
@@ -29,4 +29,4 @@ const TopNavbar = () => {
     )
 }
 
-export default TopNavbar;
+export default HomeNavbar;

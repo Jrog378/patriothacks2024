@@ -10,7 +10,7 @@ export default function Results() {
                     Results
                 </h1>
                 <Row>
-                    <Col>
+                    <Col style={{background:'rgb(225, 225, 235)', borderRadius:'25px', margin:'10px'}}>
                         <h2>
                             AWS Rekognition Results
                         </h2>
@@ -24,7 +24,7 @@ export default function Results() {
                             having trouble with this last model, we decided to supplement with some hard code as well.
                         </p>
                     </Col>
-                    <Col>
+                    <Col style={{background:'rgb(225, 225, 235)', borderRadius:'25px', margin:'10px'}}>
                         <h2>
                             Hard Coded Results
                         </h2>

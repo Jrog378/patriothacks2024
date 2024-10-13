@@ -1,0 +1,188 @@
+:root {
+  --far-color: #ffe4c7;
+  --near-color: #008b8b;
+  --perspective: 1px;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+
+}
+
+.home {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  perspective: var(--perspective);
+  background-color: #061e4e;
+}
+
+
+.layer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 100%;
+  z-index: 100;
+  min-height: 400px;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.parallax {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  perspective: var(--perspective);
+}
+
+.parallax-group {
+  position: relative;
+  height: 100vh;
+  transform-style: preserve-3d;
+}
+
+.layer-1 {
+  margin-top: 50rem;
+  background-color: #74abfd;
+  margin-top: 600px;
+  transform: translateZ(-12px) scale(13);
+}
+
+.layer-1::before {
+  background-image: linear-gradient(135deg, transparent 66%, #74abfd 66.01%),
+                    linear-gradient(45deg, #74abfd 34%, transparent 34.01%);
+}
+
+.layer-2 {
+  background-color: #5196fe;
+  margin-top: 900px;
+  transform: translateZ(-10px) scale(11);
+}
+
+.layer-2::before {
+  background-image: linear-gradient(135deg, transparent 66%, #5196fe 66.01%),
+                    linear-gradient(45deg, #5196fe 34%, transparent 34.01%);
+}
+
+.layer-3 {
+  background-color: #316fcc;
+  margin-top: 1200px;
+  transform: translateZ(-8px) scale(9);
+}
+
+.layer-3::before {
+  background-image: linear-gradient(135deg, transparent 66%, #316fcc 66.01%),
+                    linear-gradient(45deg, #316fcc 34%, transparent 34.01%);
+}
+
+.layer-4 {
+  background-color: #1f60c3;
+  margin-top: 1500px;
+  transform: translateZ(-6px) scale(7);
+}
+
+.layer-4::before {
+  background-image: linear-gradient(135deg, transparent 66%, #1f60c3 66.01%),
+                    linear-gradient(45deg, #1f60c3 34%, transparent 34.01%);
+}
+
+.layer-5 {
+  background-color: #0e4597;
+  margin-top: 1800px;
+  transform: translateZ(-4px) scale(5);
+}
+
+.layer-5::before {
+  background-image: linear-gradient(135deg, transparent 66%, #0e4597 66.01%),
+                    linear-gradient(45deg, #0e4597 34%, transparent 34.01%);
+}
+
+.layer-6 {
+  background-color: #061e4e;
+  margin-top: 1500px;
+  transform: translateZ(-4px) translateY(1000px) scale(5);
+}
+
+.layer-6::before {
+  background-image: linear-gradient(135deg, transparent 66%, #061e4e 66.01%),
+                    linear-gradient(45deg, #061e4e 34%, transparent 34.01%);
+}
+
+/* Remove or comment out the general .layer::before rule */
+/*
+.layer::before {
+  content: "";
+  width: 100%;
+  height: 200px;
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  background-image: linear-gradient(135deg, transparent 66%, currentColor 66.01%),
+                    linear-gradient(45deg, currentColor 34%, transparent 34.01%);
+  background-position: calc(random(300) * 1px) 0px;
+  background-size: 200px 100%;
+  background-repeat: repeat-x;
+}
+*/
+
+/* Add this general rule for all layers */
+.layer::before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  background-position: 0 0;
+  background-size: 200px 100%;
+  background-repeat: repeat-x;
+}
+
+.content {
+  position: relative;
+  background-color: transparent;
+  font-family: "Arial";
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  line-height: 40px;
+  z-index: 10;
+  width: 100%;
+  font-size: 15px;
+  text-align: center;
+  color: white;
+  margin-top: 1000px;
+  transform: translateZ(-2px) scale(3);
+}
+
+.fill {
+  height: 100%;
+}
+
+.cta-button {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #0056b3;
+}
+
+/* Ensure the Navbar is on top */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
