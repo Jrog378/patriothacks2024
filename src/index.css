@@ -24,3 +24,7 @@ h2 {
 image {
   padding: 5px;
 }
+
+p {
+  font-size: larger;
+}
