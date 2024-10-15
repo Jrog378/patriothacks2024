@@ -1,0 +1,1 @@
+[{"datasetObjectId":"17","dataObject":{"s3Uri":"s3://3-challenge-licensefind-eval/frame_18093.png"},"annotations":[{"workerId":"private.us-east-1.211b6b968af1a180","annotationData":{"content":"{\"boundingBox\":{\"boundingBoxes\":[{\"height\":67,\"label\":\"license\",\"left\":2515,\"top\":1538,\"width\":113}],\"inputImageProperties\":{\"height\":1920,\"width\":3840}}}"}}]}]

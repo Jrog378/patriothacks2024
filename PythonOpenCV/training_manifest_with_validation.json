@@ -1,0 +1,35 @@
+{
+  "source-ref": "s3://custom-labels-console-us-east-1-e7bfa7fd08/assets/Challenge3/1728766647/bus_license.png",
+  "Challenge3-train_BB": {
+    "annotations": [
+      {
+        "left": 164,
+        "top": 382,
+        "width": 1574,
+        "height": 539,
+        "class_id": 0
+      }
+    ],
+    "image_size": [
+      {
+        "width": 1920,
+        "height": 1080,
+        "depth": 3
+      }
+    ]
+  },
+  "Challenge3-train_BB-metadata": {
+    "job-name": "labeling-job/Challenge3-train_BB",
+    "class-map": {
+      "0": "license"
+    },
+    "human-annotated": "yes",
+    "objects": [
+      {
+        "confidence": 1
+      }
+    ],
+    "creation-date": "2024-10-12T23:03:41.495Z",
+    "type": "groundtruth/object-detection"
+  }
+}

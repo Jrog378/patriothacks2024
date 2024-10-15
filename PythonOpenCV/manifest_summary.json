@@ -1,0 +1,23 @@
+{
+  "errors": [],
+  "statistics": {
+    "testing": {
+      "use_case": "OBJECT_LOCALIZATION",
+      "total_json_lines": 31,
+      "valid_json_lines": 20,
+      "invalid_json_lines": 0,
+      "ignored_json_lines": 11,
+      "errors": [],
+      "error_json_line_indices": []
+    },
+    "training": {
+      "use_case": "OBJECT_LOCALIZATION",
+      "total_json_lines": 1,
+      "valid_json_lines": 1,
+      "invalid_json_lines": 0,
+      "ignored_json_lines": 0,
+      "errors": [],
+      "error_json_line_indices": []
+    }
+  }
+}

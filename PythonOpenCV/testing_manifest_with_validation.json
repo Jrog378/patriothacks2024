@@ -1,0 +1,801 @@
+[
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18016.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2324,
+          "top": 1499,
+          "width": 86,
+          "height": 28,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:38:44.452Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18019.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2330,
+          "top": 1498,
+          "width": 89,
+          "height": 29,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:39:08.579Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18024.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2342,
+          "top": 1497,
+          "width": 86,
+          "height": 28,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:39:16.197Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18026.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2344,
+          "top": 1496,
+          "width": 91,
+          "height": 29,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:39:25.998Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18033.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2358,
+          "top": 1495,
+          "width": 89,
+          "height": 29,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:39:35.929Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18038.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2368,
+          "top": 1498,
+          "width": 91,
+          "height": 31,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:39:48.420Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18039.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2370,
+          "top": 1498,
+          "width": 89,
+          "height": 33,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:40:01.315Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18045.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2382,
+          "top": 1507,
+          "width": 91,
+          "height": 31,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:40:19.596Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18047.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2386,
+          "top": 1512,
+          "width": 93,
+          "height": 30,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:40:30.898Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18050.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2391,
+          "top": 1518,
+          "width": 92,
+          "height": 31,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:41:36.181Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18051.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2395,
+          "top": 1520,
+          "width": 92,
+          "height": 32,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:41:45.702Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18052.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2398,
+          "top": 1523,
+          "width": 91,
+          "height": 31,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:41:56.746Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18055.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2405,
+          "top": 1530,
+          "width": 94,
+          "height": 33,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:42:11.995Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18059.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2415,
+          "top": 1538,
+          "width": 92,
+          "height": 35,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:42:24.381Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18081.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2476,
+          "top": 1552,
+          "width": 98,
+          "height": 35,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:42:33.662Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18084.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2484,
+          "top": 1552,
+          "width": 100,
+          "height": 35,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:42:46.781Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18089.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2501,
+          "top": 1556,
+          "width": 103,
+          "height": 34,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:42:56.643Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18093.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2515,
+          "top": 1561,
+          "width": 106,
+          "height": 35,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:43:09.345Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18094.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2521,
+          "top": 1561,
+          "width": 101,
+          "height": 35,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:43:42.631Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/frame_18097.png",
+    "Challenge3-test_BB": {
+      "annotations": [
+        {
+          "left": 2529,
+          "top": 1565,
+          "width": 105,
+          "height": 36,
+          "class_id": 0
+        }
+      ],
+      "image_size": [
+        {
+          "width": 3840,
+          "height": 1920,
+          "depth": 3
+        }
+      ]
+    },
+    "Challenge3-test_BB-metadata": {
+      "job-name": "labeling-job/Challenge3-test_BB",
+      "class-map": {
+        "0": "license"
+      },
+      "human-annotated": "yes",
+      "objects": [
+        {
+          "confidence": 1
+        }
+      ],
+      "creation-date": "2024-10-12T22:43:53.011Z",
+      "type": "groundtruth/object-detection"
+    }
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/neg_110769.png",
+    "warnings": [
+      {
+        "code": "WARNING_UNANNOTATED_RECORD",
+        "message": "Record is unannotated."
+      }
+    ]
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/neg_178309.png",
+    "warnings": [
+      {
+        "code": "WARNING_UNANNOTATED_RECORD",
+        "message": "Record is unannotated."
+      }
+    ]
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/neg_209266.png",
+    "warnings": [
+      {
+        "code": "WARNING_UNANNOTATED_RECORD",
+        "message": "Record is unannotated."
+      }
+    ]
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/neg_226022.png",
+    "warnings": [
+      {
+        "code": "WARNING_UNANNOTATED_RECORD",
+        "message": "Record is unannotated."
+      }
+    ]
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/neg_271198.png",
+    "warnings": [
+      {
+        "code": "WARNING_UNANNOTATED_RECORD",
+        "message": "Record is unannotated."
+      }
+    ]
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/neg_313731.png",
+    "warnings": [
+      {
+        "code": "WARNING_UNANNOTATED_RECORD",
+        "message": "Record is unannotated."
+      }
+    ]
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/neg_414821.png",
+    "warnings": [
+      {
+        "code": "WARNING_UNANNOTATED_RECORD",
+        "message": "Record is unannotated."
+      }
+    ]
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/neg_57015.png",
+    "warnings": [
+      {
+        "code": "WARNING_UNANNOTATED_RECORD",
+        "message": "Record is unannotated."
+      }
+    ]
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/neg_69748.png",
+    "warnings": [
+      {
+        "code": "WARNING_UNANNOTATED_RECORD",
+        "message": "Record is unannotated."
+      }
+    ]
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/neg_7771.png",
+    "warnings": [
+      {
+        "code": "WARNING_UNANNOTATED_RECORD",
+        "message": "Record is unannotated."
+      }
+    ]
+  },
+  {
+    "source-ref": "s3://challenge3testingdata/neg_84494.png",
+    "warnings": [
+      {
+        "code": "WARNING_UNANNOTATED_RECORD",
+        "message": "Record is unannotated."
+      }
+    ]
+  }
+]
