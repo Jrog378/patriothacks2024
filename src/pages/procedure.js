@@ -13,11 +13,9 @@ export default function Procedure() {
                         </h1>
                     </Row>
                     <Row>
-                        <Col xs={12} md={6}>
-                            <Container style={{background: 'rgb(225, 225, 235)', borderRadius: '25px', margin: '10px'}}>
+                        <Col xs={12} md={6}  style={{padding:'10px'}}>
+                            <Container style={{background: 'rgb(225, 225, 235)', borderRadius: '25px'}}>
                                 <Container style={{padding: '5%'}}>
-
-
                                     <h2>Thank You For Your Time and Consideration</h2>
                                     <p>
                                         We appreciate your attendance in taking a look at our project. I hope that you
@@ -30,8 +28,8 @@ export default function Procedure() {
                                 </Container>
                             </Container>
                         </Col>
-                        <Col xs={12} md={6}>
-                            <Container style={{background: 'rgb(225, 225, 235)', borderRadius: '25px', margin: '10px'}}>
+                        <Col xs={12} md={6} style={{padding: '10px'}}>
+                            <Container style={{background: 'rgb(225, 225, 235)', borderRadius: '25px'}}>
                                 <Container style={{padding: '5%'}}>
                                     <h2>Ready to Solve a Mystery?</h2>
                                     <p>

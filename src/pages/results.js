@@ -7,11 +7,11 @@ export default function Results() {
             <TopNavbar/>
             <Container>
                 <h1 style={{textAlign: 'center', padding: '10px', fontWeight: 'bold'}}>
-                    Results
+                    Our Results
                 </h1>
                 <Row>
-                    <Col xs={12} lg={6}>
-                        <Container style={{margin: '10px', background: 'rgb(225, 225, 235)', borderRadius: '25px'}}>
+                    <Col xs={12} lg={6} style={{padding:'10px'}}>
+                        <Container style={{background: 'rgb(225, 225, 235)', borderRadius: '25px'}}>
                             <Container style={{padding: '5%'}}>
                                 <h2>
                                     AWS Rekognition Results
@@ -39,8 +39,8 @@ export default function Results() {
                             </Container>
                         </Container>
                     </Col>
-                    <Col xs={12} lg={6}>
-                        <Container style={{margin: '10px', background: 'rgb(225, 225, 235)', borderRadius: '25px'}}>
+                    <Col xs={12} lg={6} style={{padding:'10px'}}>
+                        <Container style={{background: 'rgb(225, 225, 235)', borderRadius: '25px'}}>
                             <Container style={{padding: '5%'}}>
                                 <h2>
                                     Hard Coded Results
