@@ -1,3 +1,3 @@
 # Welcome to my group project for PatriotHacks2024 - Second Place Winners 🏆 (Highest Accuracy Though)
 
-We built an image recognition application with AWS Rekognition and Python OpenCV to catch the thieves who escaped from the crime scene after stealing an artifact, then presented our work with ReactJS 
+We built an image recognition application with AWS Rekognition and Python OpenCV to catch the thieves who escaped from the crime scene after stealing an artifact, then presented our work with ReactJS. The website presentation outlined our computer vision methods in both Python and AWS to detect letters on license plates of moving vehicle photos or the vehicles as a whole. These photos contained our targets as well as random vehicles, and in some cases, were only partial images of the targets as sometimes the environment obstructs our view.
